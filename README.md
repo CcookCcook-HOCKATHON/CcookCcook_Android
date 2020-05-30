@@ -1,2 +1,2 @@
-# CcookCcook
+# CcookCcook_Android
  SOPT-HACKATHON-LIGHTNING
