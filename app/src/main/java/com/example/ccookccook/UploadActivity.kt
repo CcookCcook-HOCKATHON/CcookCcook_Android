@@ -1,7 +1,11 @@
 package com.example.ccookccook
 
+import android.app.Activity
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.ImageView
+import kotlinx.android.synthetic.main.activity_upload.*
 
 class UploadActivity : AppCompatActivity() {
 
@@ -11,6 +15,10 @@ class UploadActivity : AppCompatActivity() {
     }
 
 
-
+    //handle result of picked image
 
 }
+
+
+
+
