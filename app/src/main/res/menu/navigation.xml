@@ -6,9 +6,10 @@
         android:icon="@drawable/ic_home_black"
         />
     <item
-        android:id="@+id/menu_add"
-        android:title="Add"
-        android:icon="@drawable/ic_add_black"
+        android:id="@+id/action_empty"
+        android:title=""
+        android:enabled="false"
+        android:checkable="false"
         />
     <item
         android:id="@+id/menu_history"
